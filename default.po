@@ -1,0 +1,602 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2023-01-05 18:39+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/AdminsController.php:53
+#: ./src/Controller/AdminsController.php:77
+msgid "The admin has been saved."
+msgstr ""
+
+#: ./src/Controller/AdminsController.php:57
+#: ./src/Controller/AdminsController.php:81
+msgid "The admin could not be saved. Please, try again."
+msgstr "Az admint nem sikerült menteni, próbálja újra."
+
+#: ./src/Controller/AdminsController.php:98
+msgid "The admin has been deleted."
+msgstr "Az admin törlésre került."
+
+#: ./src/Controller/AdminsController.php:100
+msgid "The admin could not be deleted. Please, try again."
+msgstr "Az admint nem sikerült törölni, próbálja újra."
+
+#: ./src/Controller/AppointmentsController.php:56
+#: ./src/Controller/AppointmentsController.php:82
+msgid "The appointment has been saved."
+msgstr "Az időpont mentésre került."
+
+#: ./src/Controller/AppointmentsController.php:60
+#: ./src/Controller/AppointmentsController.php:86
+msgid "The appointment could not be saved. Please, try again."
+msgstr "Az időpontot nem sikerült menteni, próbálja újra."
+
+#: ./src/Controller/AppointmentsController.php:105
+msgid "The appointment has been deleted."
+msgstr "Az időpont törlésre került."
+
+#: ./src/Controller/AppointmentsController.php:107
+msgid "The appointment could not be deleted. Please, try again."
+msgstr "Az időpontot nem sikerült törölni, próbálja újra."
+
+#: ./src/Controller/CustomersController.php:56
+#: ./src/Controller/CustomersController.php:81
+msgid "The customer has been saved."
+msgstr "Az ügyfél mentésre került."
+
+#: ./src/Controller/CustomersController.php:60
+#: ./src/Controller/CustomersController.php:85
+msgid "The customer could not be saved. Please, try again."
+msgstr "Az ügyfelet nem sikerült menteni, próbálja újra."
+
+#: ./src/Controller/CustomersController.php:103
+msgid "The customer has been deleted."
+msgstr "Az ügyfél törlésre került. "
+
+#: ./src/Controller/CustomersController.php:105
+msgid "The customer could not be deleted. Please, try again."
+msgstr "Az ügyfelet nem sikerült törölni, próbálja újra."
+
+#: ./src/Controller/DevelopersController.php:53
+#: ./src/Controller/DevelopersController.php:77
+msgid "The developer has been saved."
+msgstr "A fejlesztő mentésre került. "
+
+#: ./src/Controller/DevelopersController.php:57
+#: ./src/Controller/DevelopersController.php:81
+msgid "The developer could not be saved. Please, try again."
+msgstr "A fejlesztőt nem sikerült menteni, próbálja újra."
+
+#: ./src/Controller/DevelopersController.php:98
+msgid "The developer has been deleted."
+msgstr "A fejlesztő törlésre került."
+
+#: ./src/Controller/DevelopersController.php:100
+msgid "The developer could not be deleted. Please, try again."
+msgstr "A fejlesztőt nem sikerült törölni, próbálja újra."
+
+#: ./src/Controller/InvoicesController.php:56
+#: ./src/Controller/InvoicesController.php:81
+msgid "The invoice has been saved."
+msgstr "A számla mentésre került"
+
+#: ./src/Controller/InvoicesController.php:60
+#: ./src/Controller/InvoicesController.php:85
+msgid "The invoice could not be saved. Please, try again."
+msgstr "A számlát nem sikerült menteni, próbálja újra."
+
+#: ./src/Controller/InvoicesController.php:103
+msgid "The invoice has been deleted."
+msgstr "A számla törlésre került."
+
+#: ./src/Controller/InvoicesController.php:105
+msgid "The invoice could not be deleted. Please, try again."
+msgstr "A számlát nem sikerült törölni, próbálja újra."
+
+#: ./src/Controller/ServicesController.php:53
+#: ./src/Controller/ServicesController.php:77
+msgid "The service has been saved."
+msgstr "A szolgáltatás mentésre került."
+
+#: ./src/Controller/ServicesController.php:57
+#: ./src/Controller/ServicesController.php:81
+msgid "The service could not be saved. Please, try again."
+msgstr "A szolgáltatás nem került mentésre, próbálja újra."
+
+#: ./src/Controller/ServicesController.php:98
+msgid "The service has been deleted."
+msgstr "A szolgáltatás törlésre került."
+
+#: ./src/Controller/ServicesController.php:100
+msgid "The service could not be deleted. Please, try again."
+msgstr "A szolgáltatás nem lett törölve, próbálja újra."
+
+#: ./templates/Admins/add.php:10
+#: ./templates/Admins/edit.php:10
+#: ./templates/Admins/index.php:19
+#: ./templates/Admins/view.php:10
+#: ./templates/Appointments/add.php:12
+#: ./templates/Appointments/edit.php:12
+#: ./templates/Appointments/index.php:20
+#: ./templates/Appointments/view.php:10
+#: ./templates/Customers/add.php:11
+#: ./templates/Customers/edit.php:11
+#: ./templates/Customers/index.php:23
+#: ./templates/Customers/view.php:10
+#: ./templates/Customers/view.php:61
+#: ./templates/Customers/view.php:93
+#: ./templates/Developers/add.php:10
+#: ./templates/Developers/edit.php:10
+#: ./templates/Developers/index.php:19
+#: ./templates/Developers/view.php:10
+#: ./templates/Developers/view.php:54
+#: ./templates/Invoices/add.php:11
+#: ./templates/Invoices/edit.php:11
+#: ./templates/Invoices/index.php:21
+#: ./templates/Invoices/view.php:10
+#: ./templates/Services/add.php:10
+#: ./templates/Services/edit.php:10
+#: ./templates/Services/index.php:18
+#: ./templates/Services/view.php:10
+#: ./templates/Services/view.php:54
+msgid "Actions"
+msgstr "Esemény"
+
+#: ./templates/Admins/add.php:11
+#: ./templates/Admins/edit.php:16
+#: ./templates/Admins/view.php:13
+msgid "List Admins"
+msgstr "Adminok listázása"
+
+#: ./templates/Admins/add.php:18
+msgid "Add Admin"
+msgstr "Admin hozzáadása"
+
+#: ./templates/Admins/add.php:25
+#: ./templates/Admins/edit.php:30
+#: ./templates/Appointments/add.php:27
+#: ./templates/Appointments/edit.php:32
+#: ./templates/Customers/add.php:30
+#: ./templates/Customers/edit.php:35
+#: ./templates/Developers/add.php:24
+#: ./templates/Developers/edit.php:29
+#: ./templates/Invoices/add.php:27
+#: ./templates/Invoices/edit.php:32
+#: ./templates/Services/add.php:23
+#: ./templates/Services/edit.php:28
+msgid "Submit"
+msgstr "Küldés"
+
+#: ./templates/Admins/edit.php:12
+#: ./templates/Admins/index.php:33
+#: ./templates/Appointments/edit.php:14
+#: ./templates/Appointments/index.php:35
+#: ./templates/Customers/edit.php:13
+#: ./templates/Customers/index.php:41
+#: ./templates/Customers/view.php:72
+#: ./templates/Customers/view.php:107
+#: ./templates/Developers/edit.php:12
+#: ./templates/Developers/index.php:33
+#: ./templates/Developers/view.php:67
+#: ./templates/Invoices/edit.php:13
+#: ./templates/Invoices/index.php:37
+#: ./templates/Services/edit.php:12
+#: ./templates/Services/index.php:31
+#: ./templates/Services/view.php:71
+msgid "Delete"
+msgstr "Törlés"
+
+#: ./templates/Admins/edit.php:14
+#: ./templates/Admins/index.php:33
+#: ./templates/Admins/view.php:12
+#: ./templates/Appointments/edit.php:16
+#: ./templates/Appointments/index.php:35
+#: ./templates/Appointments/view.php:12
+#: ./templates/Customers/edit.php:15
+#: ./templates/Customers/index.php:41
+#: ./templates/Customers/view.php:12
+#: ./templates/Customers/view.php:72
+#: ./templates/Customers/view.php:107
+#: ./templates/Developers/edit.php:14
+#: ./templates/Developers/index.php:33
+#: ./templates/Developers/view.php:12
+#: ./templates/Developers/view.php:67
+#: ./templates/Invoices/edit.php:15
+#: ./templates/Invoices/index.php:37
+#: ./templates/Invoices/view.php:12
+#: ./templates/Services/edit.php:14
+#: ./templates/Services/index.php:31
+#: ./templates/Services/view.php:12
+#: ./templates/Services/view.php:71
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Biztosan törölni szeretné # {0}? "
+
+#: ./templates/Admins/edit.php:23
+#: ./templates/Admins/view.php:11
+msgid "Edit Admin"
+msgstr "Admin szerkesztése"
+
+#: ./templates/Admins/index.php:8
+#: ./templates/Admins/view.php:14
+msgid "New Admin"
+msgstr "Új admin"
+
+#: ./templates/Admins/index.php:9
+#: ./templates/layout/default.php:52
+msgid "Admins"
+msgstr "Adminok"
+
+#: ./templates/Admins/index.php:31
+#: ./templates/Appointments/index.php:33
+#: ./templates/Customers/index.php:39
+#: ./templates/Customers/view.php:70
+#: ./templates/Customers/view.php:105
+#: ./templates/Developers/index.php:31
+#: ./templates/Developers/view.php:65
+#: ./templates/Invoices/index.php:35
+#: ./templates/Services/index.php:29
+#: ./templates/Services/view.php:69
+#: ./vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php:1260
+msgid "View"
+msgstr "Nézet"
+
+#: ./templates/Admins/index.php:32
+#: ./templates/Appointments/index.php:34
+#: ./templates/Customers/index.php:40
+#: ./templates/Customers/view.php:71
+#: ./templates/Customers/view.php:106
+#: ./templates/Developers/index.php:32
+#: ./templates/Developers/view.php:66
+#: ./templates/Invoices/index.php:36
+#: ./templates/Services/index.php:30
+#: ./templates/Services/view.php:70
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ./templates/Admins/index.php:42
+#: ./templates/Appointments/index.php:44
+#: ./templates/Customers/index.php:50
+#: ./templates/Developers/index.php:42
+#: ./templates/Invoices/index.php:46
+#: ./templates/Services/index.php:40
+msgid "first"
+msgstr "első"
+
+#: ./templates/Admins/index.php:43
+#: ./templates/Appointments/index.php:45
+#: ./templates/Customers/index.php:51
+#: ./templates/Developers/index.php:43
+#: ./templates/Invoices/index.php:47
+#: ./templates/Services/index.php:41
+msgid "previous"
+msgstr "előző"
+
+#: ./templates/Admins/index.php:45
+#: ./templates/Appointments/index.php:47
+#: ./templates/Customers/index.php:53
+#: ./templates/Developers/index.php:45
+#: ./templates/Invoices/index.php:49
+#: ./templates/Services/index.php:43
+msgid "next"
+msgstr "következő"
+
+#: ./templates/Admins/index.php:46
+#: ./templates/Appointments/index.php:48
+#: ./templates/Customers/index.php:54
+#: ./templates/Developers/index.php:46
+#: ./templates/Invoices/index.php:50
+#: ./templates/Services/index.php:44
+msgid "last"
+msgstr "utolsó"
+
+#: ./templates/Admins/index.php:48
+#: ./templates/Appointments/index.php:50
+#: ./templates/Customers/index.php:56
+#: ./templates/Developers/index.php:48
+#: ./templates/Invoices/index.php:52
+#: ./templates/Services/index.php:46
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: ./templates/Admins/view.php:12
+msgid "Delete Admin"
+msgstr "Admin törlése"
+
+#: ./templates/Admins/view.php:22
+#: ./templates/Customers/view.php:22
+#: ./templates/Developers/view.php:22
+#: ./templates/Services/view.php:22
+#: ./templates/Services/view.php:45
+msgid "Name"
+msgstr ""
+
+#: ./templates/Admins/view.php:26
+#: ./templates/Customers/view.php:26
+#: ./templates/Services/view.php:46
+msgid "Email"
+msgstr ""
+
+#: ./templates/Admins/view.php:30
+#: ./templates/Appointments/view.php:30
+#: ./templates/Customers/view.php:86
+#: ./templates/Developers/view.php:26
+#: ./templates/Developers/view.php:48
+#: ./templates/Invoices/view.php:30
+#: ./templates/Services/view.php:26
+#: ./templates/Services/view.php:44
+msgid "Id"
+msgstr "Id"
+
+#: ./templates/Admins/view.php:34
+#: ./templates/Appointments/view.php:38
+#: ./templates/Customers/view.php:91
+#: ./templates/Developers/view.php:30
+#: ./templates/Developers/view.php:52
+#: ./templates/Invoices/view.php:42
+#: ./templates/Services/view.php:30
+#: ./templates/Services/view.php:52
+msgid "Created"
+msgstr "Létrehozva"
+
+#: ./templates/Admins/view.php:38
+#: ./templates/Appointments/view.php:42
+#: ./templates/Developers/view.php:34
+#: ./templates/Developers/view.php:53
+#: ./templates/Invoices/view.php:46
+#: ./templates/Services/view.php:34
+#: ./templates/Services/view.php:53
+msgid "Modified"
+msgstr "Módosítva"
+
+#: ./templates/Appointments/add.php:13
+#: ./templates/Appointments/edit.php:18
+#: ./templates/Appointments/view.php:13
+msgid "List Appointments"
+msgstr "Időpontok listázása"
+
+#: ./templates/Appointments/add.php:20
+msgid "Add Appointment"
+msgstr "Időpont hozzáadása"
+
+#: ./templates/Appointments/edit.php:25
+#: ./templates/Appointments/view.php:11
+msgid "Edit Appointment"
+msgstr "Időpont szerkesztése"
+
+#: ./templates/Appointments/index.php:8
+#: ./templates/Appointments/view.php:14
+msgid "New Appointment"
+msgstr "Új időpont"
+
+#: ./templates/Appointments/index.php:9
+#: ./templates/layout/default.php:50
+msgid "Appointments"
+msgstr "Időpont"
+
+#: ./templates/Appointments/view.php:12
+msgid "Delete Appointment"
+msgstr "Időpont törlése"
+
+#: ./templates/Appointments/view.php:22
+#: ./templates/Developers/view.php:49
+#: ./templates/Invoices/view.php:22
+msgid "Customer"
+msgstr "Ügyfél"
+
+#: ./templates/Appointments/view.php:26
+msgid "Developer"
+msgstr "Fejlesztő"
+
+#: ./templates/Appointments/view.php:34
+#: ./templates/Customers/view.php:59
+#: ./templates/Developers/view.php:51
+msgid "Date"
+msgstr "Dátum"
+
+#: ./templates/Customers/add.php:12
+#: ./templates/Customers/edit.php:17
+#: ./templates/Customers/view.php:13
+msgid "List Customers"
+msgstr "Ügyfelek listázása"
+
+#: ./templates/Customers/add.php:19
+msgid "Add Customer"
+msgstr "Ügyfél hozzáadása"
+
+#: ./templates/Customers/edit.php:24
+#: ./templates/Customers/view.php:11
+msgid "Edit Customer"
+msgstr "Ügyfél szerkesztése"
+
+#: ./templates/Customers/index.php:8
+#: ./templates/Customers/view.php:14
+msgid "New Customer"
+msgstr "Új ügyfél"
+
+#: ./templates/Customers/index.php:9
+#: ./templates/layout/default.php:47
+msgid "Customers"
+msgstr "Ügyfél"
+
+#: ./templates/Customers/view.php:12
+msgid "Delete Customer"
+msgstr "Ügyfél törlése"
+
+#: ./templates/Customers/view.php:30
+#: ./templates/Services/view.php:47
+msgid "Phone"
+msgstr "Telefon"
+
+#: ./templates/Customers/view.php:34
+#: ./templates/Services/view.php:48
+msgid "Zip"
+msgstr "Irányítószám"
+
+#: ./templates/Customers/view.php:38
+#: ./templates/Services/view.php:49
+msgid "City"
+msgstr "Város"
+
+#: ./templates/Customers/view.php:42
+#: ./templates/Services/view.php:50
+msgid "Street"
+msgstr "Utca"
+
+#: ./templates/Customers/view.php:46
+msgid "Service"
+msgstr "Szolgáltatás"
+
+#: ./templates/Customers/view.php:52
+#: ./templates/Developers/view.php:43
+msgid "Related Appointments"
+msgstr "Kapcsolt időpont"
+
+#: ./templates/Customers/view.php:58
+#: ./templates/Developers/view.php:50
+msgid "Developer Id"
+msgstr "Fejlesztő Id"
+
+#: ./templates/Customers/view.php:81
+msgid "Related Invoices"
+msgstr "Kapcsolat számlák"
+
+#: ./templates/Customers/view.php:88
+#: ./templates/Invoices/view.php:34
+msgid "Amount"
+msgstr "Összeg"
+
+#: ./templates/Customers/view.php:89
+#: ./templates/Invoices/view.php:26
+#: ./templates/Services/index.php:9
+#: ./templates/layout/default.php:48
+msgid "Services"
+msgstr "Szolgáltatások"
+
+#: ./templates/Customers/view.php:90
+#: ./templates/Invoices/view.php:38
+msgid "Due Date"
+msgstr "Dátum"
+
+#: ./templates/Developers/add.php:11
+#: ./templates/Developers/edit.php:16
+#: ./templates/Developers/view.php:13
+msgid "List Developers"
+msgstr "Fejlesztők listázása"
+
+#: ./templates/Developers/add.php:18
+msgid "Add Developer"
+msgstr ""
+
+#: ./templates/Developers/edit.php:23
+#: ./templates/Developers/view.php:11
+msgid "Edit Developer"
+msgstr "Fejlesztő szerkesztése"
+
+#: ./templates/Developers/index.php:8
+#: ./templates/Developers/view.php:14
+msgid "New Developer"
+msgstr "Új fejlesztő"
+
+#: ./templates/Developers/index.php:9
+#: ./templates/layout/default.php:49
+msgid "Developers"
+msgstr "Fejlesztők"
+
+#: ./templates/Developers/index.php:27
+#: ./templates/Developers/view.php:39
+msgid "Yes"
+msgstr "Igen"
+
+#: ./templates/Developers/index.php:27
+#: ./templates/Developers/view.php:39
+msgid "No"
+msgstr "Nem"
+
+#: ./templates/Developers/view.php:12
+msgid "Delete Developer"
+msgstr "Fejlesztő törlése"
+
+#: ./templates/Developers/view.php:38
+msgid "On Vacation"
+msgstr "Szabadságon"
+
+#: ./templates/Invoices/add.php:12
+#: ./templates/Invoices/edit.php:17
+#: ./templates/Invoices/view.php:13
+msgid "List Invoices"
+msgstr "Számlák listázása"
+
+#: ./templates/Invoices/add.php:19
+msgid "Add Invoice"
+msgstr "Számla hozzáadása"
+
+#: ./templates/Invoices/edit.php:24
+#: ./templates/Invoices/view.php:11
+msgid "Edit Invoice"
+msgstr "Számla szerkesztése"
+
+#: ./templates/Invoices/index.php:8
+#: ./templates/Invoices/view.php:14
+msgid "New Invoice"
+msgstr "Új számla"
+
+#: ./templates/Invoices/index.php:9
+#: ./templates/layout/default.php:51
+msgid "Invoices"
+msgstr "Számlák"
+
+#: ./templates/Invoices/view.php:12
+msgid "Delete Invoice"
+msgstr "Számla törlése"
+
+#: ./templates/Services/add.php:11
+#: ./templates/Services/edit.php:16
+#: ./templates/Services/view.php:13
+msgid "List Services"
+msgstr "Szolgáltatások listázása"
+
+#: ./templates/Services/add.php:18
+msgid "Add Service"
+msgstr "Új szolgáltatás hozzáadása"
+
+#: ./templates/Services/edit.php:23
+#: ./templates/Services/view.php:11
+msgid "Edit Service"
+msgstr "Szolgáltatás szerkesztése"
+
+#: ./templates/Services/index.php:8
+#: ./templates/Services/view.php:14
+msgid "New Service"
+msgstr "Új szolgáltatás"
+
+#: ./templates/Services/view.php:12
+msgid "Delete Service"
+msgstr "Szolgáltatás törlése"
+
+#: ./templates/Services/view.php:39
+msgid "Related Customers"
+msgstr "Kapcsolt ügyfelek"
+
+#: ./templates/Services/view.php:51
+msgid "Service Id"
+msgstr "Szolgáltatás Id"
+
+#: ./templates/layout/default.php:53
+msgid "Logout"
+msgstr "Kilépés"
+
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr "Vissza"
+
